@@ -1,0 +1,7 @@
+ID Produit,Nom Produit,Prix Unitaire (€),Quantité,Stock Min,Valeur Stock (€),Alerte
+201,Produit A,100,50,10,5000,OK
+202,Produit B,75,8,15,600,ALERTE
+203,Produit C,200,15,5,3000,OK
+204,Produit D,50,100,20,5000,OK
+205,Produit E,150,30,12,4500,OK
+TOTAL,,,203,,17600,

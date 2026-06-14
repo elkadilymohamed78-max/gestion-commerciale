@@ -1,0 +1,7 @@
+N° Facture,Date,Client,Description,Montant HT (€),TVA (€),Montant TTC (€),Statut
+2001,2025-01-10,Client A,Vente produits,500,100,600,Payée
+2002,2025-01-12,Client B,Vente produits,750,150,900,Payée
+2003,2025-01-15,Client C,Vente produits,1200,240,1440,En attente
+2004,2025-01-18,Client A,Vente produits,350,70,420,Payée
+2005,2025-01-20,Client D,Vente produits,900,180,1080,En attente
+TOTAL,,,3700,740,4440,

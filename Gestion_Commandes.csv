@@ -1,0 +1,7 @@
+N° Commande,Date,Client,Produit,Quantité,Prix Unit. (€),Total (€),Statut
+3001,2025-01-10,Client A,Produit A,5,100,500,Complétée
+3002,2025-01-12,Client B,Produit B,3,75,225,Complétée
+3003,2025-01-15,Client C,Produit C,8,200,1600,En cours
+3004,2025-01-18,Client A,Produit D,10,50,500,En attente
+3005,2025-01-20,Client E,Produit E,4,150,600,Complétée
+TOTAL,,,,,3425,

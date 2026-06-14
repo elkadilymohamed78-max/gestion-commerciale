@@ -1,0 +1,7 @@
+ID Vente,Date,Client,Montant (€),Quantité,Vendeur,Statut
+1001,2025-01-10,Client A,500,5,Jean,Complétée
+1002,2025-01-12,Client B,750,3,Marie,Complétée
+1003,2025-01-15,Client C,1200,8,Pierre,En cours
+1004,2025-01-18,Client A,350,2,Jean,Complétée
+1005,2025-01-20,Client D,900,6,Marie,En attente
+TOTAL,,,3700,24,,

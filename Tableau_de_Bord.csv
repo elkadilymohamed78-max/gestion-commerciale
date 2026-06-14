@@ -1,0 +1,9 @@
+Métrique,Valeur,Description
+Total Ventes (€),7700,Somme de toutes les ventes enregistrées
+Nombre de Clients Actifs,5,Clients avec au moins une transaction
+Stock Total (unités),203,Quantité totale en stock de tous produits
+Valeur Stock (€),15950,Valeur totale du stock évalué
+Chiffre Facturé (€),3700,Total des montants HT facturés
+Commandes en Cours,1,Nombre de commandes au statut "En cours"
+Commissions à Payer (€),437.5,Montant total des commissions dues
+Date de Mise à Jour,2025-01-20,Dernière mise à jour du tableau de bord

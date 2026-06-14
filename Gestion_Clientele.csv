@@ -1,0 +1,6 @@
+ID Client,Nom,Email,Téléphone,Adresse,Total Acheté (€),Catégorie
+101,Client A,clienta@email.com,06 12 34 56 78,123 Rue Paris,5000,VIP
+102,Client B,clientb@email.com,06 98 76 54 32,456 Avenue Lyon,3500,Standard
+103,Client C,clientc@email.com,06 55 33 22 11,789 Boulevard Marseille,2000,Standard
+104,Client D,clientd@email.com,06 44 11 99 88,321 Rue Toulouse,1500,Nouveau
+105,Client E,cliente@email.com,06 77 88 99 00,654 Avenue Nice,7500,VIP

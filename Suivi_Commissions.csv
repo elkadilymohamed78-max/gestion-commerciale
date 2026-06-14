@@ -1,0 +1,5 @@
+Vendeur,Total Ventes (€),Taux Commission (%),Montant Commission (€),Statut Paiement,Date Paiement
+Jean,2500,5,125,Payée,2025-01-25
+Marie,2250,5,112.5,Payée,2025-01-25
+Pierre,1800,5,90,En attente,
+TOTAL,,5,327.5,,
